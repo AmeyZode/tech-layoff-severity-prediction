@@ -1,0 +1,5 @@
+outs:
+- md5: 65f93dc06144c021aca7cade671ee809
+  size: 1592660
+  hash: md5
+  path: merged_layoffs-2.csv
