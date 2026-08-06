@@ -267,11 +267,3 @@ dvc push
 ## License
 
 This project is developed for academic and educational purposes.
-
----
-
-## Author
-
-**Amey Zode**
-
-Bachelor of Engineering (Computer Engineering - Artificial Intelligence)
