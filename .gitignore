@@ -26,7 +26,6 @@ venv/
 mlruns/
 
 # Models
-*.pkl
 *.joblib
 *.onnx
 
