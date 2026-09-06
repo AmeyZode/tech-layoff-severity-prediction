@@ -1,0 +1,5 @@
+outs:
+- md5: 56acb3a666e28019670caeb18a2c7e9a
+  size: 482089
+  hash: md5
+  path: layoffs_raw.xlsx

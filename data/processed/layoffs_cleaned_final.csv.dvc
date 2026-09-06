@@ -1,0 +1,5 @@
+outs:
+- md5: ddbe78dfc176433a7f84899926f8edff
+  size: 735766
+  hash: md5
+  path: layoffs_cleaned_final.csv
