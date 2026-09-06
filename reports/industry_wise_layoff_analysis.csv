@@ -1,0 +1,406 @@
+industry,total_laid_off
+Consumer,180321.0
+Hardware,147106.0
+Retail,144786.0
+Other,139615.0
+Finance,107524.0
+Transportation,90956.0
+Food,82253.0
+Unknown,64529.0
+Healthcare,55336.0
+Software Development,53125.0
+Infrastructure,52137.0
+E-commerce,37596.0
+Sales,34627.0
+Travel,34261.0
+Crypto,32232.0
+Real Estate,29598.0
+Education,27444.0
+HR,26950.0
+Data,26249.0
+Marketing,21397.0
+Motor Vehicle Manufacturing,20020.0
+Security,19790.0
+"E-commerce, SaaS",18000.0
+Media,17598.0
+IT Services and IT Consulting,16623.0
+CONSUMER,16117.0
+Energy,15336.0
+telecommunication,15000.0
+retail,14250.0
+Logistics,12748.0
+Fitness,12108.0
+"Big tech, internet services",12000.0
+Semiconductor Manufacturing,11982.0
+Support,11617.0
+Business Consulting and Services,11560.0
+Social media,11155.0
+other,9128.0
+"enterprise tech, analytics",9090.0
+"Productivity, task management",9090.0
+Appliances,9000.0
+Manufacturing,8060.0
+Construction,8036.0
+Fintech,7725.0
+Recruiting,7298.0
+RETAIL,6978.0
+"automotive, electric vehicles",6650.0
+finance,6007.0
+Product,5994.0
+FINANCE,5896.0
+AI,5547.0
+Health Care,5501.0
+healthcare,5475.0
+FOOD,5469.0
+Aerospace,5363.0
+TRANSPORTATION,5043.0
+consumer,4887.0
+infrastructure,4602.0
+"enterprise software, SaaS",4100.0
+"automotive, ecommerce",4000.0
+SOCIAL MEDIA,3740.0
+CRYPTO,3595.0
+HARDWARE,3420.0
+OTHER,3351.0
+MARKETING,3090.0
+Cloud technology,3000.0
+construction,2684.0
+EDUCATION,2429.0
+HEALTHCARE,2167.0
+education,2099.0
+Entertainment Providers,2010.0
+telehealth,2000.0
+REAL ESTATE,1837.0
+Hospitality,1800.0
+DATA,1744.0
+Gaming,1735.0
+e-commerce,1600.0
+hardware,1530.0
+Semiconductors,1383.0
+CivicTech,1350.0
+transportation,1321.0
+Job Search,1300.0
+media,1216.0
+Computer Games,1210.0
+IT Services,1195.0
+sales,1192.0
+Proptech,1126.0
+Fitness/Digital Health,1095.0
+travel,1088.0
+Legal,1083.0
+"Health Care, Biotech",1000.0
+PropTech,967.0
+Artificial Intelligence,961.0
+media/entertainment,960.0
+CLOUD INFRASTRUCTURE,960.0
+Media/entertainment,960.0
+security,956.0
+Technology. Information and Internet,950.0
+food,902.0
+data,872.0
+"electric vehicle, transportation",840.0
+"Insurtech, machine learning",825.0
+it services,800.0
+Online Gaming,780.0
+"AI, health care",750.0
+Insurance Software Solutions,700.0
+"CRM, enterprise software",700.0
+"Auto, E-commerce",647.0
+"food and beverage, restaurants",640.0
+MEDIA,629.0
+ENERGY,601.0
+INFRASTRUCTURE,600.0
+Cybersecurity,590.0
+hr,589.0
+logistics,551.0
+"SaaS, enterprise software",540.0
+HR and payroll software,500.0
+Worker skills intelligence startup,500.0
+"AI, big data",500.0
+"AI, enterprise software",500.0
+Foodtech,480.0
+Customer service,453.0
+"data analytics, national defense",450.0
+Transportion,450.0
+"big data, cloud computing",450.0
+Financial Services,441.0
+marketing,421.0
+product,421.0
+"Real Estate, PropTech",420.0
+Biotechnology Research,418.0
+SOFTWARE DEVELOPMENT,405.0
+Outsourcing and Offshoring Consulting,400.0
+"Blockchain, cryptocurrency",400.0
+"Mobile Apps, Gaming",400.0
+Telecommunications,400.0
+"E-commerce, Delivery",400.0
+"EdTech, IT",400.0
+Enterprise Apple device management,400.0
+FITNESS,400.0
+SUPPORT,399.0
+Higher Education,388.0
+real estate,386.0
+Marketing Tech,382.0
+"Food delivery, ecommerce",355.0
+DevOps,350.0
+Logistic,350.0
+fitness,345.0
+"e-commerce, retail",340.0
+FINTECH,338.0
+FinTech,328.0
+SECURITY,321.0
+RECRUITING,320.0
+recruiting,318.0
+"content marketing, advertising",315.0
+Travel Guidance Platform,311.0
+"Renewable energy, forestry",300.0
+Meat Technologies,300.0
+GAMING,300.0
+AI companion app,300.0
+Automotive Technology,300.0
+"Mobile Apps, Developer Tools",300.0
+"health care, telehealth",300.0
+Advertising platforms,300.0
+Media/Entertainment,300.0
+crypto,284.0
+"pharmaceutical, health care",281.0
+Sports Platform,280.0
+"Restaurant Tech, Food Tech",280.0
+"data center, enterprise software",270.0
+"AEROSPACE, SPACE",270.0
+Coworking,250.0
+LOGISTICS,250.0
+Freelance services marketplace,250.0
+"health care, data collection",250.0
+Transporation,249.0
+"AR, health care",240.0
+"Pet tech, health care",230.0
+PRODUCT,229.0
+"Travel, hotels",226.0
+InsurTech,220.0
+virtual event,220.0
+"productivity, enterprise software",220.0
+MANUFACTURING,219.0
+"Cryptocurrency, blockchain",214.0
+software development,200.0
+Analytics,200.0
+"media, streaming",200.0
+"FINTECH, AI",200.0
+Autonomous-driving vehicles,200.0
+TRAVEL,189.0
+ADVERTISING SERVICES,180.0
+"Media, news",180.0
+"Cloud computing, IT",180.0
+"MEDIA, NEWS",180.0
+"Marijuana, marketing",175.0
+Legal Tech,170.0
+"Crypto, NFT marketplace",168.0
+Translation and Localization,160.0
+Insurance,158.0
+"telecommunications, enterprise software",155.0
+"Telecommunication, wireless",153.0
+"cryptocurrency, blockchain",150.0
+marketplace,150.0
+Automotive,150.0
+Video-sharing social network,150.0
+Cloud Technology Company,150.0
+Insurtech,149.0
+"Fintech, SaaS",142.0
+"restaurant tech, food tech",140.0
+Environmental Services,140.0
+"social impact, finance",140.0
+"artificial intelligence, robotics",140.0
+proptech,140.0
+Social Media,135.0
+"social media, audio",134.0
+"CleanTech, energy",130.0
+"Media, video editing",130.0
+"fintech, crypto",125.0
+"security, enterprise software",125.0
+"Data science, enterprise",120.0
+EdTech,120.0
+"Security, SaaS",120.0
+"E-commerce, Logistics",120.0
+"AI, analytics",120.0
+"Retail, e-commerce",120.0
+Online gaming,120.0
+Cryptocurrency,116.0
+"E-commerce, ticketing",115.0
+"Artificial intelligence, machine learning",111.0
+health diagnostics,109.0
+Higher Education Industry,108.0
+networking and security,106.0
+SALES,106.0
+Cannabis,106.0
+"E-commerce, DTC",105.0
+"ai, coding",104.0
+Beauty,104.0
+E-sport,103.0
+AI. made in India. for the world.,100.0
+Computer and Network Security,100.0
+Enterprise Software,100.0
+"social impact, company benefits",100.0
+Electronics,100.0
+Marketing Automation,100.0
+"Marketing, software, SaaS",100.0
+"cybersecurity, cloud services",100.0
+"Fintech, loans",100.0
+"Fintech, software",100.0
+"Grocery, e-commerce, delivery service",100.0
+"Health care, nutrition",100.0
+Venture Capital and Private Equity Principals,100.0
+content marketing,100.0
+conversational chatbot tools,100.0
+"Proptech, hospitality",100.0
+mobile apps,100.0
+"indoor farming, agtech",99.0
+"Solar, Software",97.0
+Edtech,96.0
+Social media startup,95.0
+music,95.0
+"Cloud computing, web hosting",95.0
+"cybsersecurity, predictive analytics",95.0
+"Insurtech, cloud computing",95.0
+CONSTRUCTION,95.0
+"health care, health insurance",95.0
+"Cloud services, cybersecurity",95.0
+Digital Intelligence,95.0
+EV financing platform,95.0
+health care,95.0
+Crowdfunding,94.0
+Game studio,93.0
+Health care,92.0
+"Insurance, fintech",90.0
+"CRM, IT",90.0
+gaming,89.0
+Computers and Electronics Manufacturing,88.0
+"SaaS, data",87.0
+"Speech recognition, artificial intelligence",85.0
+"E-commerce, retail",84.0
+support,84.0
+"Career planning, social network",82.0
+Employment Marketplace,80.0
+"SaaS, meeting software",80.0
+Consumer Services,80.0
+Data storage,80.0
+cryptocurrency,80.0
+Natural Language Processing,80.0
+ANALYTICS,80.0
+"E-commerce, consumer lending",79.0
+Digital Marketing,78.0
+"Saas, APIs",76.0
+food and beverage,75.0
+"Human resources, recruiting",75.0
+IT Infrastructure,75.0
+AI chip startup,75.0
+"Developer APIs, enterprise software",75.0
+aerospace,74.0
+Autonomous vehicles,72.0
+edtech,72.0
+"Visual collaboration, Apps",71.0
+"Saas, enterprise software",70.0
+"AI, Sales",70.0
+"marketing, media",70.0
+Appliances. Electrical. and Electronics Manufacturing,70.0
+"cybersecurity, cloud infrastructure",69.0
+"SecOps, security",65.0
+Vehicle Cybersecurity,65.0
+"Enterprise software, e-commerce",65.0
+Advancement of Semiconductor Technology,64.0
+Computer games,63.0
+"Ecommerce, Fashion",63.0
+"INSURTECH, TRANSPORTATION",60.0
+"News, media",60.0
+legal,60.0
+"PropTech, Real Estate",60.0
+"retail, e-commerce",60.0
+"productivity, marketing",60.0
+"enterprise software, productivity",58.0
+AI startup,57.0
+recruiting platform,57.0
+"PropTech, InsurTech",57.0
+"edtech, artificial intelligence",55.0
+"Health care, analytics",55.0
+Wellness and Fitness Services,55.0
+talent marketplace,54.0
+automotive,54.0
+Spectator Sports,54.0
+Computer memory,52.0
+"AgTech, food and beverage",50.0
+"Collaboration, productivity",50.0
+"health care, wellness",50.0
+Conversation Media Platform,50.0
+Online travel agency and search engine,50.0
+conversational ai,50.0
+"telehealth, wellness",50.0
+"Insurtech, fintech",47.0
+Product Design,46.0
+SaaS,45.0
+"consumer lending, fintech",45.0
+"engineering, software",45.0
+"automation, IT",45.0
+"proptech, advertising",44.0
+Autonomous Driving Company,43.0
+"Food Tech, Software, Grocery Tech",43.0
+"Marketing Tech, SMS Marketing",43.0
+Venture capital fund,42.0
+manufacturing,42.0
+Legal Intelligence,40.0
+Business catering,40.0
+"Fintech, payments",40.0
+"robotics, ai",40.0
+"Video production, marketing",40.0
+"FOOD DELIVERY, ECOMMERCE",40.0
+"delivery, e-commerce",40.0
+cloud,40.0
+"Video games, blockchain",40.0
+"health care, clinical trials",40.0
+social media,40.0
+"human resources, SaaS",39.0
+SEO Software,36.0
+Surveillance,33.0
+"Employee Benefits, HR Tech",32.0
+"health care, analytics",32.0
+"fintech, personal finance",32.0
+3D Printing,31.0
+"E-commerce, marketplace",31.0
+Social media management,30.0
+"Smart Home, Security",30.0
+Data Analytics,30.0
+"developer APIs, enterprise software",30.0
+"analytics, SaaS",30.0
+Sales tech,30.0
+AEROSPACE,30.0
+"Shipping, Logistics",30.0
+Game Studio,30.0
+"Fintech, analytics",30.0
+"IT, software",30.0
+The Animation Tool for UI/UX Designers.,30.0
+"Product design, apparel",27.0
+ai,27.0
+HR Tech,26.0
+Productivity Tools,26.0
+"Cybersecurity, enterprise software",25.0
+identity verification,24.0
+"E-commerce, fashion",24.0
+Video Conferencing Software,24.0
+News,24.0
+"Enterprise software, Management information systems",24.0
+Software,23.0
+"ADTECH, DIGITAL MARKETING",23.0
+Marketing tech,23.0
+AI transcription and captioning,22.0
+"FinTech, loan repayments",20.0
+"SOCIAL MEDIA, CREATOR ECONOMY",20.0
+digital marketing,20.0
+"fintech, data analytics",20.0
+Social posting site,20.0
+CRYPTOCURRENCY,20.0
+"wellness, consumer goods",17.0
+Publishing,15.0
+Productivity software,14.0
+"ESPORTS, MEDIA",12.0
+"privacy tech, marketing tech",7.0
+E-Learning,5.0
+"AI, image recognition",3.0
+Elder Care,0.0
