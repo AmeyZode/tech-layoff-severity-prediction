@@ -5,3 +5,6 @@ numpy
 scikit-learn==1.6.1
 joblib
 pydantic
+pytest
+httpx
+ruff
