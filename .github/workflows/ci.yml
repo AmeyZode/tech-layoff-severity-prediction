@@ -9,10 +9,11 @@ on:
     branches:
       - main
 
+
 jobs:
 
   # =====================================================
-  # JOB 1 — TEST
+  # TEST
   # =====================================================
 
   test:
@@ -21,6 +22,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: layoffs-api
+
     steps:
 
       - name: Checkout repository
@@ -31,6 +36,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
+          cache-dependency-path: layoffs-api/requirements.txt
 
       - name: Install dependencies
         run: |
@@ -39,11 +45,11 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest -v
+          python -m pytest -v
 
 
   # =====================================================
-  # JOB 2 — LINT
+  # LINT
   # =====================================================
 
   lint:
@@ -51,6 +57,10 @@ jobs:
     name: Code Quality Check
 
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: layoffs-api
 
     steps:
 
@@ -62,6 +72,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
+          cache-dependency-path: layoffs-api/requirements.txt
 
       - name: Install dependencies
         run: |
@@ -74,7 +85,7 @@ jobs:
 
 
   # =====================================================
-  # JOB 3 — DOCKER BUILD
+  # DOCKER BUILD
   # =====================================================
 
   build:
@@ -99,7 +110,7 @@ jobs:
         run: |
           docker build \
             -t layoffs-api:latest \
-            .
+            ./layoffs-api
 
       - name: Verify Docker image
         run: |
