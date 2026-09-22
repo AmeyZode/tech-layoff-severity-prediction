@@ -1,8 +1,7 @@
+import joblib
+import pandas as pd
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-import pandas as pd
-import joblib
-
 
 # =========================================================
 # LOAD MODEL
@@ -14,11 +13,17 @@ try:
     model = joblib.load(MODEL_PATH)
     print("Model loaded successfully.")
 
-except Exception as e:
+except (
+    FileNotFoundError,
+    ModuleNotFoundError,
+    ImportError,
+    ValueError,
+    AttributeError,
+    EOFError,
+) as e:
     raise RuntimeError(
         f"Could not load model: {e}"
-    )
-
+    ) from e
 
 # =========================================================
 # FASTAPI APPLICATION
@@ -217,11 +222,16 @@ def predict(data: LayoffInput):
         }
 
 
-    except Exception as e:
+    except (
+    ValueError,
+    KeyError,
+    TypeError,
+    AttributeError,
+  ) as e:
 
-        print("Prediction error:", e)
+      print("Prediction error:", e)
 
-        raise HTTPException(
-            status_code=500,
-            detail=str(e)
-        )
+      raise HTTPException(
+        status_code=500,
+        detail=str(e)
+    ) from e
