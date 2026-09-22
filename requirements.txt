@@ -8,3 +8,8 @@ pydantic
 pytest
 httpx
 ruff
+streamlit
+matplotlib
+seaborn
+shap
+scipy
